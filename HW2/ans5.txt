@@ -1,0 +1,6 @@
+22/tcp 	opened	ssh
+25/tcp 	opened	smtp
+443/tcp 	opened	https
+80/tcp 	opened	http
+21/tcp 	filtered	ftp
+23/tcp 	filtered	telnet

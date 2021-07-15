@@ -1,0 +1,10 @@
+80/tcp 	opened	http
+443/tcp 	opened	https
+25/tcp 	opened	smtp
+110/tcp 	opened	pop3
+22/tcp 	opened	ssh
+445/tcp 	filtered	microsoft-ds
+23/tcp 	filtered	telnet
+139/tcp 	filtered	netbios-ssn
+21/tcp 	filtered	ftp
+3389/tcp 	filtered	ms-wbt-server
